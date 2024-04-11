@@ -2,8 +2,18 @@
 
 This project is a Book Explorer web application built using ReactJS, showcasing a list of books with filtering capabilities and detailed book views.
 
-# Project Structure
+## Setting Up and Running the Project
 
+https://github.com/prince10o/Book-Explorer.git
+
+1. Navigate to the project directory:
+   cd book-explorer
+2. Install dependencies:
+   npm install
+3. Start the development server:
+   npm start
+
+    # Project Structure
 /src: Contains the source code for the application.
 /components: Contains React components used in the application.
 Inside the components there are folders in which there is css snd js files
